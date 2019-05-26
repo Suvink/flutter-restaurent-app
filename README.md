@@ -25,7 +25,7 @@ A few resources to get you started if this is your first Flutter project:
 This project only include Lib, assets and pubspec folders only. Feel free to copy and paste the code into your own peoject and run.
 
 
-##Screenshots
+## Screenshots
 
 <br>
 <img src="https://github.com/Suvink/flutter-restaurent-app/blob/master/screenshots/screenshot.png" width="280" height="550">
@@ -33,5 +33,5 @@ This project only include Lib, assets and pubspec folders only. Feel free to cop
 <br>
 <br>
 Happy learning. :+1:
-If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media. <br>
 ### Show some :heart: and star the repo to support the project
