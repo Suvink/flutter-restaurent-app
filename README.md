@@ -8,8 +8,7 @@ This project is a starting point for a Flutter application.
 Design credits goes to Codex Coder and you can find him here.
 
 - [Dribbble](https://dribbble.com/uidesignstudio)
-
-A new Flutter application.
+<br>
 
 ## Getting Started
 
