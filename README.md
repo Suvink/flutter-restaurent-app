@@ -3,7 +3,7 @@ UI design for a Restaurant app originally designed by Codex Coder
 
 ## Getting Started
 
-This project is a starting point for a Flutter application. 
+This project is a starting point for a Flutter application. You are always welcome to send pull requests. I will review and merge them! 
 
 Design credits goes to Codex Coder and you can find him here.
 
